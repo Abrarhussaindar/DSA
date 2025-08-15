@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// time complexity ---> O(n^2)
 int main() {
     int n=5;
     int arr[n] = {1, 2, 3, 4, 5};
